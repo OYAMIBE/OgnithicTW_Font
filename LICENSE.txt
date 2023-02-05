@@ -1,5 +1,5 @@
 Copyright (c) 2022-2023, Ognimichone Project (https://github.com/OYAMIBE/Ognimichone_Font/),
-with Reserved Font Name "Ognimichone Font" and "遍圆类宋一" .
+with Reserved Font Name "OgnithicTW Font" and "遍圆台黑" .
 Copyright (c) 2014-2021, Adobe (http://www.adobe.com/),
 with Reserved Font Name "Source".
 
