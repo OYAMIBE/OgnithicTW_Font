@@ -1,4 +1,4 @@
-# 遍圆台宋
+# 遍圆台黑
 
 # 项目简介
 A Chinese Font, keeping update
@@ -11,11 +11,11 @@ A Chinese Font, keeping update
 贡献者：（对本字体提出修改建议的群友们）
 
 # 字体许可证
-本字体使用OFL字体开源许可，于中日韩同意表意文字区 基于 思源宋体（https://github.com/adobe-fonts/source-han-serif/actions）
+本字体使用OFL字体开源许可，于中日韩同意表意文字区 基于 思源黑体（https://github.com/adobe-fonts/source-han-sans）
 
 1.你可以复制、分发次字体，并在印刷产品、嵌入式设备、软件等使用
 
-2.你可以再次字体的基础上修改、发布（注意：在二次修改分发的字体名中避免出现与原字体相同字眼，例如：遍圆、Ogni等，你可以取名为xxx宋体，xxx台标宋等）
+2.你可以再次字体的基础上修改、发布（注意：在二次修改分发的字体名中避免出现与原字体相同字眼，例如：遍圆、Ogni等，你可以取名为xxx黑体，xxx台标黑等）
 
 3.你可以免费使用本字体，无需表明项目制作人员。
 
