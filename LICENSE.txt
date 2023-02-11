@@ -1,7 +1,9 @@
-Copyright (c) 2022-2023, Ognimichone Project (https://github.com/OYAMIBE/Ognimichone_Font/),
-with Reserved Font Name "Ognimichone Font" and "遍圆类宋一" .
+Copyright (c) 2022-2023, Ognimichone Project (https://github.com/OYAMIBE/OgnithicTW_Font),
+with Reserved Font Name "OgnithicTW Font" and "遍圆台黑" .
 Copyright (c) 2014-2021, Adobe (http://www.adobe.com/),
 with Reserved Font Name "Source".
+Copyright (c) 2020-2022, "Plangothic project" (https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic,
+https://jq.qq.com/?_wv=1027&k=xRTzFAfD), with Reserved Font Names "Plangothic" and "遍黑".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
