@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Copyright (c) 2022-2023, Ognimichone Project (https://github.com/OYAMIBE/OgnithicTW_Font),
+=======
+Copyright (c) 2022-2023, Ognimichone Project (https://github.com/OYAMIBE/Ognimichone_Font/),
+>>>>>>> 483df554929ddec17f69bfc87eb868712c65f409
 with Reserved Font Name "OgnithicTW Font" and "遍圆台黑" .
 Copyright (c) 2014-2021, Adobe (http://www.adobe.com/),
 with Reserved Font Name "Source".
