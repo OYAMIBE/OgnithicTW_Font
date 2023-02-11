@@ -25,21 +25,35 @@
 # 联系
 
 如有任何问题可在Github上提出，若有较为紧急的问题请联系
+
 QQ：1641749406
+
 常见问题将在Readme中展示
 
 # 参考说明
 
 本字体在制作时，使用或借鉴了一下字体、文件、工具、软件等
+
 Fontcreator（https://fontcreator.com.cn/）
+
 字统网（zi.tools）
+
 字形维基（http://zhs.glyphwiki.org/）及KAGE Engine
+
 万国码全码表（http://www.unicode.org/charts/）
+
 天珩全字库（http://cheonhyeong.com/）
+
 思源黑体（https://github.com/adobe-fonts/source-han-sans）
+
 遍黑体（https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project）
+
 书格(https://new.shuge.org/)
+
 康熙与仓颉（https://www.chinesecj.com/）
+
 Visual Studio Code （https://code.visualstudio.com）
+
 全国标准信息公共服务平台（https://std.samr.gov.cn）
+
 白云深处有人家海外站（https://homeinmists.ilotus.org/）
