@@ -1,8 +1,8 @@
-# 遍圆台黑
+# 遍圆书宋
 
 # 项目简介
 
-一款基于思源黑体的中文字体，严格按照台湾标准设计，修改了思源黑体中错误的字形以及部件错误细节、将各部件严格改为台湾标准字形。目前正在保持更新。
+一款基于中文字体，以台湾正宋体以主要风格，制作国标中文字体。目前正在保持更新。
 
 # 贡献者与发起人
 项目发起人：Ognifont-遍圆字库
@@ -10,8 +10,7 @@
 贡献者：（对本字体提出修改建议的群友们）
 
 # 字体许可证
-本字体使用OFL字体开源许可，CJK统一汉字（中日韩同意表意文字基本区域） 及 CJK统一汉字扩展区 部分汉字 基于 思源黑体（https://github.com/adobe-fonts/source-han-sans）
-部分 CJK统一汉字扩展区 的制作中使用了 遍黑体（https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project） 的部分汉字与汉字部件。
+本字体使用OFL字体开源许可，西文部分（含标点等） 基于 思源宋体（https://github.com/adobe-fonts/source-han-serif）
 
 1.你可以复制、分发次字体，并在印刷产品、嵌入式设备、软件等使用
 
@@ -22,9 +21,10 @@
 // 严禁任何个人、企业、团队等对该字体文件进行倒卖兜售（包括但不限于将字体文件单独售卖，与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等行为），如您是付费获得的此字体，请立刻对其进行举报，必要时可协助相关司法机关。 //
 
 （详细内容请看 License.txt）
+
 # 联系
 
-如有任何问题可在Github上提出，若有较为紧急的问题请联系
+如有任何问题可在Github上提出，
 
 QQ：1641749406
 
@@ -44,7 +44,7 @@ Fontcreator（https://fontcreator.com.cn/）
 
 天珩全字库（http://cheonhyeong.com/）
 
-思源黑体（https://github.com/adobe-fonts/source-han-sans）
+思源宋体（https://github.com/adobe-fonts/source-han-serif）
 
 遍黑体（https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project）
 
