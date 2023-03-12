@@ -57,3 +57,7 @@ Visual Studio Code （https://code.visualstudio.com）
 全国标准信息公共服务平台（https://std.samr.gov.cn）
 
 白云深处有人家海外站（https://homeinmists.ilotus.org/）
+
+# 注：
+
+字体正在制作过程中，暂不更新Release和字体的字体文件版，仅有工程（FCP）
